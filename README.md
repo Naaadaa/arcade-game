@@ -13,7 +13,7 @@ Created for the Udacity Nanodegree Front End Web Developer
 
 
 
-## liev demo: 
+## live demo: 
 [Click here](https://naaadaa.github.io/arcade-game/index.html)
 
 
