@@ -1,6 +1,6 @@
 # Classic Arcade Game
 
-# summary
+# Summary
 Build a Classical Arcade Game 
 Created for the Udacity Nanodegree Front End Web Developer
 
